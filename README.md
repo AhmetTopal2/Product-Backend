@@ -32,8 +32,8 @@ A Spring Boot-based e-commerce REST API with JWT authentication, Swagger documen
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ecommerce-api.git
-cd ecommerce-api
+git clone https://github.com/AhmetTopal2/Product-Backend
+cd Product-Backend
 ```
 
 2. **Configure PostgreSQL**
